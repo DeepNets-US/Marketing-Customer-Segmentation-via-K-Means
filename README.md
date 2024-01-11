@@ -28,3 +28,5 @@ Welcome to the insightful world of Data Science! In this repository, you'll find
 Explore the notebook and embark on an enlightening journey into the world of Data Science. Uncover patterns, analyze clusters, and gain valuable insights into customer segmentation.
 
 Happy Analyzing! 🚀📊
+
+![image](https://github.com/DeepNets-US/Marketing-Customer-Segmentation-via-K-Means-/assets/118154709/95725d9f-997e-4b7f-9782-a310fb222b44)
