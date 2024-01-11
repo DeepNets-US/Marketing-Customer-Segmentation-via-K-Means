@@ -15,7 +15,7 @@ Welcome to the insightful world of Data Science! In this repository, you'll find
 ## How to Explore:
 
 1. **Open the Notebook:**
-   - Simply click on the [Jupyter Notebook](Marketing_Customer_Segmentation_KMeans.ipynb) file above to delve into the analysis.
+   - Simply click on the [Jupyter Notebook](marketing-customer-segmentation-k-means.ipynb) file above to delve into the analysis.
 
 2. **Dive into Data Science:**
    - Analyze, modify, and experiment with the code directly in the notebook to enhance your understanding of data science techniques.
